@@ -1,0 +1,9 @@
+ls
+cd ~
+ls
+cp -r Pictures PicturesCopy
+rm -r PicturesCopy
+touch plik.txt
+rm plik.txt
+ls
+exit
